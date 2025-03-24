@@ -6,7 +6,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import openpyxl
 
 # Configuration de l'application
-st.title("📊 Recherche Automatisée dans les Plannings")
+st.title("📊 Recherche Automatisée dans l'historique des Plannings")
 
 # Liste des fichiers attendus
 expected_files = [
